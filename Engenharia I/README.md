@@ -7,7 +7,7 @@
 
 ### Meu comentário: 
 > Acredito que independe de ser solicitado para projeto, organizaçao ou até mesmo como formação, devemos estar preocupados com tudo no geral. Ter uma visao ampla do tempo, das necessidades de mudanças, com a escala e eficiência. Assim se tornando um profional qualificado para todo o tipo de trabalho.
-Porque se pararmos para pensar, independe se dentro do projeto temos que estar procupados com a passagem do tempo e a eventual necessidades de mudanças, em algum momento a tomada de decisão é necessária.
+> Porque se pararmos para pensar, independe se dentro do projeto temos que estar procupados com a passagem do tempo e a eventual necessidades de mudanças, em algum momento a tomada de decisão é necessária.
 
 
 
