@@ -6,8 +6,25 @@
 > Titus Winters, Software Engineering at Google
 
 ### Meu comentário: 
-> Acredito que independe de ser solicitado para projeto, organizaçao ou até mesmo como formação, devemos estar preocupados com tudo no geral. Ter uma visao ampla do tempo, das necessidades de mudanças, com a escala e eficiência. Assim se tornando um profional qualificado para todo o tipo de trabalho.
-> Porque se pararmos para pensar, independe se dentro do projeto temos que estar procupados com a passagem do tempo e a eventual necessidades de mudanças, em algum momento a tomada de decisão é necessária.
+> Acredito que independe de ser solicitado para projeto, organizaçao ou até mesmo como formação, devemos estar preocupados com tudo no geral. Ter uma visao ampla do tempo, das necessidades de mudanças, com a escala e eficiência. Assim se tornando um profissional qualificado para todo o tipo de trabalho.
+> Porque se pararmos para pensar, independente, se dentro do projeto temos que estar procupados com a passagem do tempo e a eventual necessidades de mudanças, em algum momento a tomada de decisão é necessária.
+
+# Atividade 2
+
+>  Coletar os requisitos funcionais e não funcionais do sistema. 
+O que são requisitos? São as necessidades do cliente 
+Funcionais --> São tarefas ou ações do sistema
+Não funcionais --> São qualidades do sistema
+
+
+### Minha Resposta:
+> Sistema escolhido: 
+> Problema :
+> Requisitos coletados
+> - Funcionais:
+
+> - Não Funcionais:
+
 
 
 
