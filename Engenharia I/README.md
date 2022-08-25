@@ -12,11 +12,9 @@
 # Atividade 2
 
 >  Coletar os requisitos funcionais e não funcionais do sistema. 
-
 > O que são requisitos? São as necessidades do cliente 
-
 > Funcionais --> São tarefas ou ações do sistema
-Não funcionais --> São qualidades do sistema
+> Não funcionais --> São qualidades do sistema
 
 
 ### Minha Resposta:
