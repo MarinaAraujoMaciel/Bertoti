@@ -19,11 +19,14 @@ Não funcionais --> São qualidades do sistema
 
 ### Minha Resposta:
 > Sistema escolhido: 
+Marina
 > Problema :
-
-> ### Requisitos coletados
+marina
+> Requisitos coletados
 - Funcionais:
+    - marina
 - Não Funcionais:
+    - marina
 
 
 
