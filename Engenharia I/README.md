@@ -20,7 +20,8 @@ Não funcionais --> São qualidades do sistema
 ### Minha Resposta:
 > Sistema escolhido: 
 Marina
-> Problema :
+<br>
+Problema :
 marina
 > Requisitos coletados
 - Funcionais:
