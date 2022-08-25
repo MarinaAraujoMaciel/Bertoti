@@ -20,10 +20,10 @@ Não funcionais --> São qualidades do sistema
 ### Minha Resposta:
 > Sistema escolhido: 
 > Problema :
-> Requisitos coletados
-> - Funcionais:
 
-> - Não Funcionais:
+> Requisitos coletados
+- Funcionais:
+- Não Funcionais:
 
 
 
