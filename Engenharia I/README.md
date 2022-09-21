@@ -9,16 +9,16 @@
 > Acredito que independe de ser solicitado para projeto, organizaçao ou até mesmo como formação, devemos estar preocupados com tudo no geral. Ter uma visao ampla do tempo, das necessidades de mudanças, com a escala e eficiência. Assim se tornando um profissional qualificado para todo o tipo de trabalho.
 > Porque se pararmos para pensar, independente, se dentro do projeto temos que estar procupados com a passagem do tempo e a eventual necessidades de mudanças, em algum momento a tomada de decisão é necessária.
 
+# Atividade 2 
+
+19/08/2022 
+- Pergunta: O que é um trade-off no projeto da API do segundo semestre? 
+
+> > Resposta: Criar um software desktop que não permita a abertura do projeto em um navegador. O grupo pode analizar as vantagens e desvantagens de se utilizar determinada ferramenta ou software, e assim, ter as informações necessarias para tomar as decisões mais adequadas para o desenvolvimento do projeto. Um software desktop permite uma flexibilidade de aplicação para o cliente.
+
 # Atividade 2
 
 >  Coletar os requisitos funcionais e não funcionais do sistema.
-
-- O que são requisitos? São as necessidades do cliente 
-
-> - Funcionais --> São tarefas ou ações do sistema
-
-> - Não funcionais --> São qualidades do sistema
-
 
 ### Sistema Escolhido:
 > Marina
