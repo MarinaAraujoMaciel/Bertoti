@@ -42,7 +42,7 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 ### Diagrama UML(Unified Modeling Language)
 
 
-<img scr="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/DIAGRAMA_UML.jpeg" alt="uml">
+<a href="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/DIAGRAMA_UML.jpeg" alt="uml">
 
 
     
