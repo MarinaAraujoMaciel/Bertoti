@@ -18,24 +18,28 @@
 
 > > Resposta: Criar um software desktop que não permita a abertura do projeto em um navegador. O grupo pode analizar as vantagens e desvantagens de se utilizar determinada ferramenta ou software, e assim, ter as informações necessarias para tomar as decisões mais adequadas para o desenvolvimento do projeto. Um software desktop permite uma flexibilidade de aplicação para o cliente.
 
-# Atividade 2
+# Atividade 3
 
->  Coletar os requisitos funcionais e não funcionais do sistema.
+25/08/2022
+
+- Coletar os requisitos funcionais e não funcionais do sistema.
 
 ### Sistema Escolhido:
-> Marina
-
-### Problema:
-> Marina
-
+> Sitema que indique a quantidade de cachorros que irão no pet durante o mês, os dias da semana, que indique tambem o nome do cachorro, raça, nome do dono, cpf do dono, telefone de contato. Valores dos itens desse petshop e dos banhos.
 
 ### Requisitos coletados
 - Funcionais:
-    > marina
+> Administrador cadastra Usuários com o nome e uma senha e o nome de seu pet.
+Administrador pode então editar usuários ou excluir o perfil.
+Usuário cadastra objetos, nome completo de seu pet,data de nascimento do seu pet, raça, carteirinha de vacinação, endereço e telefone para contato
+Usuário edita objetos alterando os dados de seu pet, endereço e telefone para contato.
+Administrador pode tambem adicionar ao sistema produtos que serão vendidos dentro do pet.
+Administrador pode entao editar esses produtos.
 - Não Funcionais:
-    > marina
+    > Usabilidade: interface simples e intuitiva de uso.
+    > Compatibilidade com outros servidores e terminais
     
-    https://www.youtube.com/watch?v=MBzwUIMu3Zc
+   
 
 
 
