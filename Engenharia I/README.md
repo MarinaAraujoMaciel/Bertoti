@@ -25,16 +25,13 @@
 Coletar os requisitos funcionais e não funcionais do sistema.
 
 ### Sistema Escolhido:
-> > Sitema que indique a quantidade de cachorros que irão no pet durante o mês, os dias da semana, que indique tambem o nome do cachorro, raça, nome do dono, cpf do dono, telefone de contato. Valores dos itens desse petshop e dos banhos.
+> > Sitema que facilite o usuário a ter acesso aos dias de banho e tosa de seus pets, mostrando então os dias da semana, que indique tambem o nome do cachorro, raça e nome do cachorro.
 
 ### Requisitos coletados
 > > Funcionais:
-- Administrador cadastrar Usuários com o nome e uma senha e o nome de seu pet.
-- Administrador pode então editar usuários ou excluir o perfil.
-- Usuário cadastra seu pet, nome completo de seu pet,data de nascimento do seu pet, raça, carteirinha de vacinação, endereço e telefone para contato
-- Usuário edita pet alterando os dados de seu pet, endereço e telefone para contato.
-- Administrador pode tambem adicionar ao sistema produtos que serão vendidos dentro do pet.
-- Administrador pode entao editar esses produtos.
+- Usuário acessa a plataforma atras de user e senha
+- Usuário pode cadastrar novos pets entrando com Nome, raça, idade, data para o banho, se caso for ter tosa colocar bata para tosa e se vai vacinar ou não
+- Usuário então pode inclusive editar as informações
 > > Não Funcionais:
 - Usabilidade: interface simples e intuitiva de uso.
 - Compatibilidade com outros servidores e terminais.
