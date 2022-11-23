@@ -56,19 +56,19 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 > Login:
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet1.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet1.jpeg" width=900 height=682>
 
 > Tabela: 
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet2.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet2.jpeg" width=900 height=682>
 
 > Registro: 
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet3.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet3.jpeg" width=900 height=682>
 
 > Configuração:
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet4.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet4.jpeg" width=900 height=682>
 
 
 
