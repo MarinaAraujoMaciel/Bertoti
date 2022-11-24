@@ -70,6 +70,10 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 <img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/pet4.jpeg" width=900 height=682>
 
+# Video do software
+
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/Pets_video.gif" width=900 height=682>
+
 
 
     
