@@ -38,17 +38,17 @@ Coletar os requisitos funcionais e não funcionais do sistema.
 
 ### Diagrama de Caso de Uso
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama3.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama3.jpeg" width=900 height=682>
 
 ### Diagrama UML(Unified Modeling Language)
 
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama2.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama2.jpeg" width=900 height=682>
 
 ### Diagrama de Entidade de Relacionamento(DER)
 
 
-<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama1.jpeg" width=500 height=500>
+<img src="https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Engenharia%20I/imagens/diagrama1.jpeg" width=900 height=682>
 
 
 # Imagens do software
