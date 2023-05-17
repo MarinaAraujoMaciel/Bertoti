@@ -10,8 +10,9 @@
 ### Algumas:
 * VIsibilidade do sistema: 
     > Quando estamos assistindo uma playlist no Youtube, por exemplo, temos ao lado direito um indicador de qual vídeo estamos assistindo, quais os vídeos anteriores e quais os seguintes.
-    
-   <img> https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema1.jpeg </img>
+
+   ![Imagem 1](https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema1.jpeg) 
+  
     > https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema2.jpeg
     > https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema3.jpeg 
 
