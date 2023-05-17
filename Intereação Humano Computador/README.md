@@ -10,7 +10,9 @@
 ### Algumas:
 * VIsibilidade do sistema: 
     > Quando estamos assistindo uma playlist no Youtube, por exemplo, temos ao lado direito um indicador de qual vídeo estamos assistindo, quais os vídeos anteriores e quais os seguintes.
-    > 
+    > https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema1.jpeg
+    > https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema2.jpeg
+    > https://github.com/MarinaAraujoMaciel/Bertoti/blob/main/Interea%C3%A7%C3%A3o%20Humano%20Computador/Imagens/VisibilidadeSistema3.jpeg 
 
 * Compatibilidade Entre sistema e Mundo Real: 
     > Facilidade de entender determinadas coisas dentro de um site, um exemplo disso seria, uma pessoa que não entende inglês e sites oferecem determinos simbolos e opções para que o usuário entenda perfeitamente do que se trata
